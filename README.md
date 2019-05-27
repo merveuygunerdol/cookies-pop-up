@@ -1,5 +1,5 @@
 # React Pop-up Example
-Pop-up warning about cokkies
+Pop-up warning about cookies
 
 ## Technologies
 
